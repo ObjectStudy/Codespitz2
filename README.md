@@ -35,4 +35,6 @@
 ## 6주차
 [코드스피츠 2강 6회차](https://www.youtube.com/watch?v=biJS1Ze8UMw&list=PLBNdLLaRx_rLOQsMCWxvawSUVI6cXoMsk&index=7)
 
-## 간단한 오픈소스 만들면서 설계해보기.
+## 오픈소스 프로젝트
+
+간단한 오픈소스 만들면서 설계해보기.
